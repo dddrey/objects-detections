@@ -1,0 +1,14 @@
+{
+  "name": "objects-detections",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Andrushkins/objects-detections.git",
+  "author": "Andrushkins <drachyov.andrew@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "opencv": "^6.0.0"
+  }
+}
